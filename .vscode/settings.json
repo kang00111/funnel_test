@@ -1,0 +1,4 @@
+{
+    "notebook.experimental.variablesView": true, // 주피터 노트북 왼쪽에서 변ㄱ수
+    // "terminal.integrated.mouseWheelZoom": true // 마우스 휠로 줌 왔다갔다
+}
